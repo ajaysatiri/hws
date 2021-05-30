@@ -1,4 +1,5 @@
 # hello-world-servlet
+<<<<<<< HEAD
 HHHHHHHHHHelloWorld Servlet repo example with corresponding Dockerfile!fff
 hdfdfdfdfdellioooo
 DFFFDFDF
@@ -26,3 +27,10 @@ webhook test
 09/04/2021--->Friday
 12/04/2021
 28/05/2021---> firday is last day for the week 
+=======
+HelloWorld Servlet example with corresponding Dockerfile!
+sample
+03/22/2021-->Monday
+03/23/2021
+15/04/2021 -->Thursday
+>>>>>>> 681fdb137974603556f89cc1fb14583164520c8b
